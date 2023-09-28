@@ -16,10 +16,10 @@ Este es el backend de una aplicación de lista de tareas. Proporciona una API RE
 3. npm start
 
 Endpoints de la API
--GET /api/tasks: Obtiene todas las tareas
--POST /api/tasks: Crea una nueva tarea
--PUT /api/tasks/:id: Actualiza una tarea existente
--DELETE /api/tasks/:id: Elimina una tarea por su ID
+1. -GET /api/tasks: Obtiene todas las tareas
+2. -POST /api/tasks: Crea una nueva tarea
+3. -PUT /api/tasks/:id: Actualiza una tarea existente
+4. -DELETE /api/tasks/:id: Elimina una tarea por su ID
 
 ## Recomendaciones
 1. Ejecuta el backend primero, luego el frontend
